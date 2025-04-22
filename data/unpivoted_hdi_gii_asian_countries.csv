@@ -1,0 +1,2245 @@
+country,year,hdi,gii
+Afghanistan,1990,0.284,
+Armenia,1990,0.658,
+Azerbaijan,1990,,
+Bahrain,1990,0.733,
+Bangladesh,1990,0.399,0.699
+Belarus,1990,,
+Bhutan,1990,,
+Brunei Darussalam,1990,0.779,
+Cambodia,1990,0.379,
+China,1990,0.482,
+Fiji,1990,0.63,
+Georgia,1990,,
+India,1990,0.434,0.693
+Indonesia,1990,0.526,0.615
+Iran,1990,0.613,0.687
+Iraq,1990,0.497,
+Jordan,1990,0.622,
+Kazakhstan,1990,0.672,
+Kiribati,1990,,
+North Korea,1990,,
+North Korea,1990,,
+Kuwait,1990,0.698,
+Kyrgyzstan,1990,0.637,
+Lao People's Democratic Republic,1990,0.408,
+Lebanon,1990,,
+Malaysia,1990,0.649,0.375
+Maldives,1990,,0.673
+Marshall Islands,1990,,
+Micronesia (Federated States of),1990,,
+Moldova (Republic of),1990,0.688,
+Mongolia,1990,0.579,
+Montenegro,1990,,
+Myanmar,1990,0.333,
+Nauru,1990,,
+Nepal,1990,0.395,0.742
+North Macedonia,1990,,0.429
+Oman,1990,,
+Pakistan,1990,0.394,0.806
+Palau,1990,,
+"Palestine, State of",1990,,
+Papua New Guinea,1990,0.394,
+Philippines,1990,0.598,0.532
+Qatar,1990,0.764,
+Samoa,1990,,
+Saudi Arabia,1990,0.699,
+Singapore,1990,0.78,0.263
+Solomon Islands,1990,,
+Sri Lanka,1990,0.641,0.448
+Syrian Arab Republic,1990,0.563,0.553
+Tajikistan,1990,0.616,
+Thailand,1990,0.581,0.461
+Timor-Leste,1990,,
+Tonga,1990,0.64,
+Türkiye,1990,0.598,0.587
+Turkmenistan,1990,,
+Tuvalu,1990,0.564,
+United Arab Emirates,1990,0.717,
+Uzbekistan,1990,,
+Vanuatu,1990,,
+Viet Nam,1990,0.492,
+Yemen,1990,0.357,
+"Hong Kong, China (SAR)",1990,0.739,
+Israel,1990,0.781,0.342
+Japan,1990,0.846,0.169
+North Korea,1990,,
+North Korea,1990,,
+South Korea,1990,0.731,0.304
+Russian Federation,1990,0.741,0.457
+Afghanistan,1991,0.292,
+Armenia,1991,0.646,
+Azerbaijan,1991,,
+Bahrain,1991,0.727,
+Bangladesh,1991,0.397,0.695
+Belarus,1991,,
+Bhutan,1991,,
+Brunei Darussalam,1991,0.779,
+Cambodia,1991,0.384,
+China,1991,0.489,
+Fiji,1991,0.633,
+Georgia,1991,,
+India,1991,0.437,0.695
+Indonesia,1991,0.533,0.604
+Iran,1991,0.631,0.677
+Iraq,1991,0.471,
+Jordan,1991,0.629,
+Kazakhstan,1991,0.666,
+Kiribati,1991,,
+North Korea,1991,,
+North Korea,1991,,
+Kuwait,1991,0.687,
+Kyrgyzstan,1991,0.631,
+Lao People's Democratic Republic,1991,0.414,
+Lebanon,1991,,
+Malaysia,1991,0.657,0.389
+Maldives,1991,,0.654
+Marshall Islands,1991,,
+Micronesia (Federated States of),1991,,
+Moldova (Republic of),1991,0.677,
+Mongolia,1991,0.575,
+Montenegro,1991,,
+Myanmar,1991,0.344,
+Nauru,1991,,
+Nepal,1991,0.403,0.735
+North Macedonia,1991,,0.415
+Oman,1991,,
+Pakistan,1991,0.399,0.792
+Palau,1991,,
+"Palestine, State of",1991,,
+Papua New Guinea,1991,0.402,
+Philippines,1991,0.6,0.522
+Qatar,1991,0.761,
+Samoa,1991,,
+Saudi Arabia,1991,0.707,
+Singapore,1991,0.788,0.257
+Solomon Islands,1991,,
+Sri Lanka,1991,0.645,0.452
+Syrian Arab Republic,1991,0.568,0.546
+Tajikistan,1991,0.61,
+Thailand,1991,0.591,0.46
+Timor-Leste,1991,,
+Tonga,1991,0.647,
+Türkiye,1991,0.602,0.59
+Turkmenistan,1991,,
+Tuvalu,1991,0.567,
+United Arab Emirates,1991,0.729,
+Uzbekistan,1991,,
+Vanuatu,1991,,
+Viet Nam,1991,0.503,
+Yemen,1991,0.361,
+"Hong Kong, China (SAR)",1991,0.748,
+Israel,1991,0.786,0.337
+Japan,1991,0.85,0.164
+North Korea,1991,,
+North Korea,1991,,
+South Korea,1991,0.742,0.299
+Russian Federation,1991,0.738,0.45
+Afghanistan,1992,0.299,
+Armenia,1992,0.611,
+Azerbaijan,1992,,
+Bahrain,1992,0.727,
+Bangladesh,1992,0.416,0.689
+Belarus,1992,,
+Bhutan,1992,,
+Brunei Darussalam,1992,0.78,
+Cambodia,1992,0.388,
+China,1992,0.501,
+Fiji,1992,0.639,
+Georgia,1992,,
+India,1992,0.442,0.698
+Indonesia,1992,0.541,0.596
+Iran,1992,0.638,0.667
+Iraq,1992,0.502,
+Jordan,1992,0.643,
+Kazakhstan,1992,0.663,
+Kiribati,1992,,
+North Korea,1992,,
+North Korea,1992,,
+Kuwait,1992,0.697,
+Kyrgyzstan,1992,0.62,
+Lao People's Democratic Republic,1992,0.42,
+Lebanon,1992,,
+Malaysia,1992,0.665,0.369
+Maldives,1992,,0.638
+Marshall Islands,1992,,
+Micronesia (Federated States of),1992,,
+Moldova (Republic of),1992,0.662,
+Mongolia,1992,0.564,
+Montenegro,1992,,
+Myanmar,1992,0.356,
+Nauru,1992,,
+Nepal,1992,0.411,0.729
+North Macedonia,1992,,0.427
+Oman,1992,,
+Pakistan,1992,0.403,0.793
+Palau,1992,,
+"Palestine, State of",1992,,
+Papua New Guinea,1992,0.412,
+Philippines,1992,0.604,0.511
+Qatar,1992,0.766,
+Samoa,1992,,
+Saudi Arabia,1992,0.713,
+Singapore,1992,0.796,0.261
+Solomon Islands,1992,,
+Sri Lanka,1992,0.654,0.457
+Syrian Arab Republic,1992,0.573,0.536
+Tajikistan,1992,0.558,
+Thailand,1992,0.601,0.458
+Timor-Leste,1992,,
+Tonga,1992,0.651,
+Türkiye,1992,0.608,0.59
+Turkmenistan,1992,,
+Tuvalu,1992,0.562,
+United Arab Emirates,1992,0.734,
+Uzbekistan,1992,,
+Vanuatu,1992,,
+Viet Nam,1992,0.514,
+Yemen,1992,0.368,
+"Hong Kong, China (SAR)",1992,0.758,
+Israel,1992,0.791,0.332
+Japan,1992,0.852,0.165
+North Korea,1992,,
+North Korea,1992,,
+South Korea,1992,0.751,0.289
+Russian Federation,1992,0.726,0.442
+Afghanistan,1993,0.307,
+Armenia,1993,0.613,
+Azerbaijan,1993,,0.416
+Bahrain,1993,0.732,
+Bangladesh,1993,0.423,0.687
+Belarus,1993,,
+Bhutan,1993,,
+Brunei Darussalam,1993,0.78,
+Cambodia,1993,0.39,0.655
+China,1993,0.512,
+Fiji,1993,0.643,
+Georgia,1993,,
+India,1993,0.446,0.7
+Indonesia,1993,0.549,0.583
+Iran,1993,0.644,0.654
+Iraq,1993,0.524,
+Jordan,1993,0.648,
+Kazakhstan,1993,0.659,
+Kiribati,1993,,
+North Korea,1993,,
+North Korea,1993,,
+Kuwait,1993,0.703,
+Kyrgyzstan,1993,0.607,
+Lao People's Democratic Republic,1993,0.426,
+Lebanon,1993,,
+Malaysia,1993,0.671,0.366
+Maldives,1993,,0.623
+Marshall Islands,1993,,
+Micronesia (Federated States of),1993,,
+Moldova (Republic of),1993,0.662,
+Mongolia,1993,0.55,
+Montenegro,1993,,
+Myanmar,1993,0.363,
+Nauru,1993,,
+Nepal,1993,0.416,0.722
+North Macedonia,1993,,0.433
+Oman,1993,,
+Pakistan,1993,0.405,0.792
+Palau,1993,,
+"Palestine, State of",1993,,
+Papua New Guinea,1993,0.425,
+Philippines,1993,0.606,0.508
+Qatar,1993,0.772,
+Samoa,1993,,
+Saudi Arabia,1993,0.717,
+Singapore,1993,0.805,0.264
+Solomon Islands,1993,,
+Sri Lanka,1993,0.662,0.452
+Syrian Arab Republic,1993,0.574,0.534
+Tajikistan,1993,0.531,
+Thailand,1993,0.611,0.456
+Timor-Leste,1993,,
+Tonga,1993,0.657,
+Türkiye,1993,0.615,0.603
+Turkmenistan,1993,,
+Tuvalu,1993,0.575,
+United Arab Emirates,1993,0.743,
+Uzbekistan,1993,,
+Vanuatu,1993,,
+Viet Nam,1993,0.526,
+Yemen,1993,0.374,
+"Hong Kong, China (SAR)",1993,0.77,
+Israel,1993,0.797,0.318
+Japan,1993,0.858,0.164
+North Korea,1993,,
+North Korea,1993,,
+South Korea,1993,0.761,0.276
+Russian Federation,1993,0.708,0.455
+Afghanistan,1994,0.3,
+Armenia,1994,0.617,
+Azerbaijan,1994,,0.417
+Bahrain,1994,0.732,
+Bangladesh,1994,0.431,0.685
+Belarus,1994,,
+Bhutan,1994,,
+Brunei Darussalam,1994,0.78,
+Cambodia,1994,0.392,0.655
+China,1994,0.522,
+Fiji,1994,0.649,
+Georgia,1994,,
+India,1994,0.452,0.701
+Indonesia,1994,0.56,0.581
+Iran,1994,0.649,0.64
+Iraq,1994,0.524,
+Jordan,1994,0.652,
+Kazakhstan,1994,0.652,
+Kiribati,1994,,
+North Korea,1994,,
+North Korea,1994,,
+Kuwait,1994,0.732,
+Kyrgyzstan,1994,0.59,
+Lao People's Democratic Republic,1994,0.434,
+Lebanon,1994,,
+Malaysia,1994,0.679,0.362
+Maldives,1994,,0.611
+Marshall Islands,1994,,
+Micronesia (Federated States of),1994,,
+Moldova (Republic of),1994,0.639,
+Mongolia,1994,0.553,
+Montenegro,1994,,
+Myanmar,1994,0.369,
+Nauru,1994,,
+Nepal,1994,0.423,0.714
+North Macedonia,1994,,0.436
+Oman,1994,,
+Pakistan,1994,0.409,0.79
+Palau,1994,,
+"Palestine, State of",1994,,
+Papua New Guinea,1994,0.438,
+Philippines,1994,0.611,0.505
+Qatar,1994,0.778,
+Samoa,1994,,
+Saudi Arabia,1994,0.72,
+Singapore,1994,0.814,0.263
+Solomon Islands,1994,,
+Sri Lanka,1994,0.667,0.446
+Syrian Arab Republic,1994,0.578,0.529
+Tajikistan,1994,0.522,
+Thailand,1994,0.619,0.447
+Timor-Leste,1994,,
+Tonga,1994,0.666,
+Türkiye,1994,0.616,0.59
+Turkmenistan,1994,,
+Tuvalu,1994,0.582,
+United Arab Emirates,1994,0.75,
+Uzbekistan,1994,,
+Vanuatu,1994,,
+Viet Nam,1994,0.536,
+Yemen,1994,0.378,
+"Hong Kong, China (SAR)",1994,0.78,
+Israel,1994,0.803,0.307
+Japan,1994,0.865,0.16
+North Korea,1994,,
+North Korea,1994,,
+South Korea,1994,0.77,0.259
+Russian Federation,1994,0.696,0.46
+Afghanistan,1995,0.318,
+Armenia,1995,0.623,0.467
+Azerbaijan,1995,0.6,0.405
+Bahrain,1995,0.737,
+Bangladesh,1995,0.44,0.682
+Belarus,1995,0.674,
+Bhutan,1995,,
+Brunei Darussalam,1995,0.782,
+Cambodia,1995,0.399,0.65
+China,1995,0.532,
+Fiji,1995,0.654,0.484
+Georgia,1995,,
+India,1995,0.458,0.7
+Indonesia,1995,0.571,0.577
+Iran,1995,0.656,0.631
+Iraq,1995,0.516,0.718
+Jordan,1995,0.658,
+Kazakhstan,1995,0.652,
+Kiribati,1995,,
+North Korea,1995,,
+North Korea,1995,,
+Kuwait,1995,0.762,0.72
+Kyrgyzstan,1995,0.584,
+Lao People's Democratic Republic,1995,0.437,
+Lebanon,1995,,
+Malaysia,1995,0.686,0.349
+Maldives,1995,0.588,0.588
+Marshall Islands,1995,,
+Micronesia (Federated States of),1995,,
+Moldova (Republic of),1995,0.642,
+Mongolia,1995,0.558,
+Montenegro,1995,,
+Myanmar,1995,0.373,
+Nauru,1995,,
+Nepal,1995,0.428,0.709
+North Macedonia,1995,0.644,0.428
+Oman,1995,,
+Pakistan,1995,0.411,0.796
+Palau,1995,,
+"Palestine, State of",1995,,
+Papua New Guinea,1995,0.44,
+Philippines,1995,0.614,0.499
+Qatar,1995,0.779,
+Samoa,1995,0.651,
+Saudi Arabia,1995,0.724,
+Singapore,1995,0.821,0.261
+Solomon Islands,1995,,
+Sri Lanka,1995,0.669,0.45
+Syrian Arab Republic,1995,0.58,0.516
+Tajikistan,1995,0.533,0.548
+Thailand,1995,0.625,0.445
+Timor-Leste,1995,,
+Tonga,1995,0.67,
+Türkiye,1995,0.623,0.585
+Turkmenistan,1995,,
+Tuvalu,1995,0.581,
+United Arab Emirates,1995,0.756,0.763
+Uzbekistan,1995,,
+Vanuatu,1995,,
+Viet Nam,1995,0.55,0.393
+Yemen,1995,0.389,
+"Hong Kong, China (SAR)",1995,0.79,
+Israel,1995,0.807,0.299
+Japan,1995,0.867,0.164
+North Korea,1995,,
+North Korea,1995,,
+South Korea,1995,0.78,0.252
+Russian Federation,1995,0.696,0.456
+Afghanistan,1996,0.326,
+Armenia,1996,0.627,0.461
+Azerbaijan,1996,0.603,0.403
+Bahrain,1996,0.742,
+Bangladesh,1996,0.446,0.681
+Belarus,1996,0.681,
+Bhutan,1996,,
+Brunei Darussalam,1996,0.783,
+Cambodia,1996,0.403,0.641
+China,1996,0.543,
+Fiji,1996,0.658,0.479
+Georgia,1996,,
+India,1996,0.465,0.694
+Indonesia,1996,0.58,0.575
+Iran,1996,0.664,0.618
+Iraq,1996,0.539,0.717
+Jordan,1996,0.662,
+Kazakhstan,1996,0.656,
+Kiribati,1996,,
+North Korea,1996,,
+North Korea,1996,,
+Kuwait,1996,0.768,0.721
+Kyrgyzstan,1996,0.591,
+Lao People's Democratic Republic,1996,0.449,
+Lebanon,1996,,
+Malaysia,1996,0.696,0.345
+Maldives,1996,0.599,0.57
+Marshall Islands,1996,,
+Micronesia (Federated States of),1996,,
+Moldova (Republic of),1996,0.639,
+Mongolia,1996,0.561,
+Montenegro,1996,,
+Myanmar,1996,0.38,
+Nauru,1996,,
+Nepal,1996,0.437,0.701
+North Macedonia,1996,0.65,0.411
+Oman,1996,,
+Pakistan,1996,0.417,0.789
+Palau,1996,,
+"Palestine, State of",1996,,
+Papua New Guinea,1996,0.445,
+Philippines,1996,0.622,0.492
+Qatar,1996,0.783,
+Samoa,1996,0.659,
+Saudi Arabia,1996,0.728,
+Singapore,1996,0.829,0.264
+Solomon Islands,1996,,
+Sri Lanka,1996,0.674,0.451
+Syrian Arab Republic,1996,0.583,0.536
+Tajikistan,1996,0.516,0.545
+Thailand,1996,0.634,0.439
+Timor-Leste,1996,,
+Tonga,1996,0.672,
+Türkiye,1996,0.63,0.581
+Turkmenistan,1996,,
+Tuvalu,1996,0.579,
+United Arab Emirates,1996,0.762,0.766
+Uzbekistan,1996,,
+Vanuatu,1996,,
+Viet Nam,1996,0.56,0.382
+Yemen,1996,0.4,
+"Hong Kong, China (SAR)",1996,0.799,
+Israel,1996,0.814,0.287
+Japan,1996,0.874,0.158
+North Korea,1996,,
+North Korea,1996,,
+South Korea,1996,0.791,0.246
+Russian Federation,1996,0.706,0.444
+Afghanistan,1997,0.33,
+Armenia,1997,0.635,0.444
+Azerbaijan,1997,0.609,0.397
+Bahrain,1997,0.747,
+Bangladesh,1997,0.458,0.669
+Belarus,1997,0.687,
+Bhutan,1997,,
+Brunei Darussalam,1997,0.782,
+Cambodia,1997,0.408,0.639
+China,1997,0.554,
+Fiji,1997,0.658,0.474
+Georgia,1997,,
+India,1997,0.471,0.69
+Indonesia,1997,0.59,0.57
+Iran,1997,0.671,0.602
+Iraq,1997,0.549,0.712
+Jordan,1997,0.667,
+Kazakhstan,1997,0.662,
+Kiribati,1997,,
+North Korea,1997,,
+North Korea,1997,,
+Kuwait,1997,0.766,0.71
+Kyrgyzstan,1997,0.6,
+Lao People's Democratic Republic,1997,0.455,
+Lebanon,1997,,
+Malaysia,1997,0.707,0.341
+Maldives,1997,0.606,0.55
+Marshall Islands,1997,,
+Micronesia (Federated States of),1997,,
+Moldova (Republic of),1997,0.646,
+Mongolia,1997,0.569,
+Montenegro,1997,,
+Myanmar,1997,0.383,
+Nauru,1997,,
+Nepal,1997,0.444,0.695
+North Macedonia,1997,0.654,0.402
+Oman,1997,,
+Pakistan,1997,0.419,0.781
+Palau,1997,,
+"Palestine, State of",1997,,
+Papua New Guinea,1997,0.445,
+Philippines,1997,0.627,0.49
+Qatar,1997,0.794,
+Samoa,1997,0.661,
+Saudi Arabia,1997,0.732,
+Singapore,1997,0.841,0.263
+Solomon Islands,1997,,
+Sri Lanka,1997,0.68,0.451
+Syrian Arab Republic,1997,0.586,0.559
+Tajikistan,1997,0.524,0.536
+Thailand,1997,0.639,0.431
+Timor-Leste,1997,,
+Tonga,1997,0.674,
+Türkiye,1997,0.638,0.582
+Turkmenistan,1997,,
+Tuvalu,1997,0.585,
+United Arab Emirates,1997,0.768,0.764
+Uzbekistan,1997,,
+Vanuatu,1997,,
+Viet Nam,1997,0.571,0.372
+Yemen,1997,0.408,
+"Hong Kong, China (SAR)",1997,0.808,
+Israel,1997,0.82,0.27
+Japan,1997,0.877,0.16
+North Korea,1997,,
+North Korea,1997,,
+South Korea,1997,0.804,0.238
+Russian Federation,1997,0.715,0.416
+Afghanistan,1998,0.329,
+Armenia,1998,0.647,0.435
+Azerbaijan,1998,0.618,0.393
+Bahrain,1998,0.753,
+Bangladesh,1998,0.473,0.658
+Belarus,1998,0.693,
+Bhutan,1998,,
+Brunei Darussalam,1998,0.782,
+Cambodia,1998,0.412,0.64
+China,1998,0.565,0.287
+Fiji,1998,0.661,0.471
+Georgia,1998,,
+India,1998,0.477,0.678
+Indonesia,1998,0.587,0.567
+Iran,1998,0.677,0.588
+Iraq,1998,0.564,0.708
+Jordan,1998,0.671,
+Kazakhstan,1998,0.666,
+Kiribati,1998,,
+North Korea,1998,,
+North Korea,1998,,
+Kuwait,1998,0.772,0.7
+Kyrgyzstan,1998,0.606,
+Lao People's Democratic Republic,1998,0.462,0.603
+Lebanon,1998,,
+Malaysia,1998,0.71,0.339
+Maldives,1998,0.611,0.528
+Marshall Islands,1998,,
+Micronesia (Federated States of),1998,,
+Moldova (Republic of),1998,0.646,
+Mongolia,1998,0.579,0.471
+Montenegro,1998,,
+Myanmar,1998,0.39,
+Nauru,1998,,
+Nepal,1998,0.449,0.691
+North Macedonia,1998,0.661,0.394
+Oman,1998,,
+Pakistan,1998,0.423,0.786
+Palau,1998,,
+"Palestine, State of",1998,,
+Papua New Guinea,1998,0.447,
+Philippines,1998,0.632,0.485
+Qatar,1998,0.796,
+Samoa,1998,0.664,
+Saudi Arabia,1998,0.738,
+Singapore,1998,0.846,0.258
+Solomon Islands,1998,,
+Sri Lanka,1998,0.685,0.429
+Syrian Arab Republic,1998,0.587,0.532
+Tajikistan,1998,0.532,0.527
+Thailand,1998,0.643,0.425
+Timor-Leste,1998,,
+Tonga,1998,0.678,
+Türkiye,1998,0.648,0.577
+Turkmenistan,1998,,
+Tuvalu,1998,0.595,
+United Arab Emirates,1998,0.774,0.756
+Uzbekistan,1998,,
+Vanuatu,1998,,
+Viet Nam,1998,0.58,0.364
+Yemen,1998,0.417,0.81
+"Hong Kong, China (SAR)",1998,0.813,
+Israel,1998,0.828,0.256
+Japan,1998,0.877,0.163
+North Korea,1998,,
+North Korea,1998,,
+South Korea,1998,0.802,0.223
+Russian Federation,1998,0.719,0.403
+Afghanistan,1999,0.337,
+Armenia,1999,0.651,0.472
+Azerbaijan,1999,0.628,0.386
+Bahrain,1999,0.761,
+Bangladesh,1999,0.487,0.648
+Belarus,1999,0.698,
+Bhutan,1999,,
+Brunei Darussalam,1999,0.787,
+Cambodia,1999,0.421,0.637
+China,1999,0.575,0.289
+Fiji,1999,0.667,0.409
+Georgia,1999,,
+India,1999,0.485,0.672
+Indonesia,1999,0.592,0.556
+Iran,1999,0.685,0.569
+Iraq,1999,0.577,0.694
+Jordan,1999,0.676,
+Kazakhstan,1999,0.672,
+Kiribati,1999,,
+North Korea,1999,,
+North Korea,1999,,
+Kuwait,1999,0.774,0.694
+Kyrgyzstan,1999,0.613,
+Lao People's Democratic Republic,1999,0.469,0.605
+Lebanon,1999,,
+Malaysia,1999,0.715,0.324
+Maldives,1999,0.625,0.513
+Marshall Islands,1999,,
+Micronesia (Federated States of),1999,,
+Moldova (Republic of),1999,0.647,
+Mongolia,1999,0.587,0.471
+Montenegro,1999,,
+Myanmar,1999,0.398,
+Nauru,1999,,
+Nepal,1999,0.455,0.672
+North Macedonia,1999,0.669,0.329
+Oman,1999,,
+Pakistan,1999,0.429,0.779
+Palau,1999,,
+"Palestine, State of",1999,,
+Papua New Guinea,1999,0.454,
+Philippines,1999,0.635,0.484
+Qatar,1999,0.795,
+Samoa,1999,0.668,
+Saudi Arabia,1999,0.74,
+Singapore,1999,0.854,0.264
+Solomon Islands,1999,0.501,
+Sri Lanka,1999,0.693,0.452
+Syrian Arab Republic,1999,0.586,0.493
+Tajikistan,1999,0.539,0.512
+Thailand,1999,0.653,0.427
+Timor-Leste,1999,,
+Tonga,1999,0.681,
+Türkiye,1999,0.652,0.534
+Turkmenistan,1999,,
+Tuvalu,1999,0.596,
+United Arab Emirates,1999,0.781,0.75
+Uzbekistan,1999,,
+Vanuatu,1999,,
+Viet Nam,1999,0.589,0.359
+Yemen,1999,0.424,0.804
+"Hong Kong, China (SAR)",1999,0.821,
+Israel,1999,0.835,0.207
+Japan,1999,0.878,0.157
+North Korea,1999,,
+North Korea,1999,,
+South Korea,1999,0.814,0.217
+Russian Federation,1999,0.722,0.391
+Afghanistan,2000,0.34,
+Armenia,2000,0.656,0.451
+Azerbaijan,2000,0.635,0.367
+Bahrain,2000,0.775,
+Bangladesh,2000,0.491,0.646
+Belarus,2000,0.708,
+Bhutan,2000,,
+Brunei Darussalam,2000,0.789,
+Cambodia,2000,0.431,0.614
+China,2000,0.586,0.274
+Fiji,2000,0.669,0.409
+Georgia,2000,0.694,0.427
+India,2000,0.49,0.666
+Indonesia,2000,0.597,0.568
+Iran,2000,0.692,0.575
+Iraq,2000,0.583,0.672
+Jordan,2000,0.681,0.614
+Kazakhstan,2000,0.68,0.372
+Kiribati,2000,0.547,
+North Korea,2000,,
+North Korea,2000,,
+Kuwait,2000,0.78,0.689
+Kyrgyzstan,2000,0.617,0.457
+Lao People's Democratic Republic,2000,0.473,0.6
+Lebanon,2000,,
+Malaysia,2000,0.726,0.291
+Maldives,2000,0.635,0.493
+Marshall Islands,2000,,
+Micronesia (Federated States of),2000,0.637,
+Moldova (Republic of),2000,0.655,0.403
+Mongolia,2000,0.595,0.441
+Montenegro,2000,,
+Myanmar,2000,0.407,
+Nauru,2000,,
+Nepal,2000,0.461,0.657
+North Macedonia,2000,0.676,0.33
+Oman,2000,0.702,
+Pakistan,2000,0.434,0.775
+Palau,2000,0.747,
+"Palestine, State of",2000,,
+Papua New Guinea,2000,0.456,0.666
+Philippines,2000,0.635,0.485
+Qatar,2000,0.793,
+Samoa,2000,0.672,
+Saudi Arabia,2000,0.746,
+Singapore,2000,0.863,0.275
+Solomon Islands,2000,0.488,
+Sri Lanka,2000,0.689,0.468
+Syrian Arab Republic,2000,0.587,0.479
+Tajikistan,2000,0.548,0.411
+Thailand,2000,0.663,0.414
+Timor-Leste,2000,0.495,
+Tonga,2000,0.679,
+Türkiye,2000,0.669,0.539
+Turkmenistan,2000,,
+Tuvalu,2000,0.599,
+United Arab Emirates,2000,0.79,0.75
+Uzbekistan,2000,0.603,0.35
+Vanuatu,2000,,
+Viet Nam,2000,0.599,0.356
+Yemen,2000,0.434,0.805
+"Hong Kong, China (SAR)",2000,0.831,
+Israel,2000,0.835,0.193
+Japan,2000,0.883,0.149
+North Korea,2000,,
+North Korea,2000,,
+South Korea,2000,0.824,0.182
+Russian Federation,2000,0.733,0.394
+Afghanistan,2001,0.344,
+Armenia,2001,0.661,0.446
+Azerbaijan,2001,0.644,0.37
+Bahrain,2001,0.786,
+Bangladesh,2001,0.498,0.655
+Belarus,2001,0.713,0.257
+Bhutan,2001,,
+Brunei Darussalam,2001,0.792,
+Cambodia,2001,0.447,0.612
+China,2001,0.597,0.285
+Fiji,2001,0.67,0.405
+Georgia,2001,0.7,0.401
+India,2001,0.495,0.645
+Indonesia,2001,0.605,0.574
+Iran,2001,0.7,0.564
+Iraq,2001,0.588,0.669
+Jordan,2001,0.687,0.601
+Kazakhstan,2001,0.695,0.357
+Kiribati,2001,0.587,
+North Korea,2001,,
+North Korea,2001,,
+Kuwait,2001,0.779,0.685
+Kyrgyzstan,2001,0.626,0.442
+Lao People's Democratic Republic,2001,0.48,0.595
+Lebanon,2001,,
+Malaysia,2001,0.726,0.298
+Maldives,2001,0.639,0.474
+Marshall Islands,2001,,
+Micronesia (Federated States of),2001,0.641,
+Moldova (Republic of),2001,0.662,0.357
+Mongolia,2001,0.606,0.429
+Montenegro,2001,,
+Myanmar,2001,0.415,
+Nauru,2001,,
+Nepal,2001,0.462,0.651
+North Macedonia,2001,0.681,0.309
+Oman,2001,0.714,
+Pakistan,2001,0.441,0.771
+Palau,2001,0.754,
+"Palestine, State of",2001,,
+Papua New Guinea,2001,0.459,0.664
+Philippines,2001,0.64,0.486
+Qatar,2001,0.794,
+Samoa,2001,0.679,
+Saudi Arabia,2001,0.752,
+Singapore,2001,0.867,0.19
+Solomon Islands,2001,0.492,
+Sri Lanka,2001,0.691,0.462
+Syrian Arab Republic,2001,0.595,0.472
+Tajikistan,2001,0.558,0.409
+Thailand,2001,0.677,0.392
+Timor-Leste,2001,0.509,
+Tonga,2001,0.682,
+Türkiye,2001,0.675,0.529
+Turkmenistan,2001,,
+Tuvalu,2001,0.61,
+United Arab Emirates,2001,0.794,0.744
+Uzbekistan,2001,0.61,0.332
+Vanuatu,2001,,
+Viet Nam,2001,0.609,0.341
+Yemen,2001,0.444,0.806
+"Hong Kong, China (SAR)",2001,0.839,
+Israel,2001,0.838,0.186
+Japan,2001,0.885,0.152
+North Korea,2001,,
+North Korea,2001,,
+South Korea,2001,0.832,0.162
+Russian Federation,2001,0.743,0.383
+Afghanistan,2002,0.368,
+Armenia,2002,0.67,0.447
+Azerbaijan,2002,0.654,0.368
+Bahrain,2002,0.792,
+Bangladesh,2002,0.505,0.727
+Belarus,2002,0.718,0.226
+Bhutan,2002,,
+Brunei Darussalam,2002,0.796,
+Cambodia,2002,0.469,0.604
+China,2002,0.608,0.281
+Fiji,2002,0.671,0.407
+Georgia,2002,0.709,0.403
+India,2002,0.501,0.64
+Indonesia,2002,0.614,0.575
+Iran,2002,0.708,0.544
+Iraq,2002,0.588,0.669
+Jordan,2002,0.691,0.591
+Kazakhstan,2002,0.706,0.345
+Kiribati,2002,0.584,
+North Korea,2002,,
+North Korea,2002,,
+Kuwait,2002,0.785,0.682
+Kyrgyzstan,2002,0.627,0.44
+Lao People's Democratic Republic,2002,0.489,0.584
+Lebanon,2002,,
+Malaysia,2002,0.725,0.295
+Maldives,2002,0.642,0.45
+Marshall Islands,2002,,
+Micronesia (Federated States of),2002,0.636,
+Moldova (Republic of),2002,0.671,0.34
+Mongolia,2002,0.615,0.402
+Montenegro,2002,,
+Myanmar,2002,0.425,
+Nauru,2002,,
+Nepal,2002,0.469,0.645
+North Macedonia,2002,0.684,0.236
+Oman,2002,0.722,
+Pakistan,2002,0.447,0.767
+Palau,2002,0.76,
+"Palestine, State of",2002,,
+Papua New Guinea,2002,0.462,0.665
+Philippines,2002,0.646,0.456
+Qatar,2002,0.796,
+Samoa,2002,0.678,
+Saudi Arabia,2002,0.756,
+Singapore,2002,0.872,0.189
+Solomon Islands,2002,0.497,
+Sri Lanka,2002,0.695,0.459
+Syrian Arab Republic,2002,0.602,0.452
+Tajikistan,2002,0.569,0.399
+Thailand,2002,0.688,0.382
+Timor-Leste,2002,0.522,0.583
+Tonga,2002,0.686,
+Türkiye,2002,0.685,0.513
+Turkmenistan,2002,,
+Tuvalu,2002,0.622,
+United Arab Emirates,2002,0.798,0.741
+Uzbekistan,2002,0.617,0.318
+Vanuatu,2002,,
+Viet Nam,2002,0.619,0.334
+Yemen,2002,0.453,0.808
+"Hong Kong, China (SAR)",2002,0.846,
+Israel,2002,0.843,0.179
+Japan,2002,0.888,0.158
+North Korea,2002,,
+North Korea,2002,,
+South Korea,2002,0.841,0.162
+Russian Federation,2002,0.749,0.38
+Afghanistan,2003,0.379,
+Armenia,2003,0.681,0.413
+Azerbaijan,2003,0.663,0.366
+Bahrain,2003,0.799,0.358
+Bangladesh,2003,0.511,0.744
+Belarus,2003,0.728,0.208
+Bhutan,2003,,
+Brunei Darussalam,2003,0.802,
+Cambodia,2003,0.484,0.59
+China,2003,0.619,0.268
+Fiji,2003,0.675,0.409
+Georgia,2003,0.719,0.402
+India,2003,0.514,0.637
+Indonesia,2003,0.622,0.569
+Iran,2003,0.713,0.537
+Iraq,2003,0.566,0.674
+Jordan,2003,0.697,0.552
+Kazakhstan,2003,0.717,0.347
+Kiribati,2003,0.588,
+North Korea,2003,,
+North Korea,2003,,
+Kuwait,2003,0.796,0.68
+Kyrgyzstan,2003,0.635,0.434
+Lao People's Democratic Republic,2003,0.498,0.578
+Lebanon,2003,,
+Malaysia,2003,0.73,0.274
+Maldives,2003,0.655,0.436
+Marshall Islands,2003,,
+Micronesia (Federated States of),2003,0.643,
+Moldova (Republic of),2003,0.681,0.321
+Mongolia,2003,0.629,0.381
+Montenegro,2003,0.749,
+Myanmar,2003,0.435,
+Nauru,2003,,
+Nepal,2003,0.476,0.639
+North Macedonia,2003,0.69,0.229
+Oman,2003,0.732,
+Pakistan,2003,0.455,0.666
+Palau,2003,0.765,
+"Palestine, State of",2003,,
+Papua New Guinea,2003,0.467,0.697
+Philippines,2003,0.652,0.458
+Qatar,2003,0.801,
+Samoa,2003,0.683,
+Saudi Arabia,2003,0.765,0.777
+Singapore,2003,0.878,0.16
+Solomon Islands,2003,0.503,
+Sri Lanka,2003,0.7,0.458
+Syrian Arab Republic,2003,0.613,0.46
+Tajikistan,2003,0.581,0.387
+Thailand,2003,0.698,0.387
+Timor-Leste,2003,0.522,0.566
+Tonga,2003,0.693,
+Türkiye,2003,0.691,0.508
+Turkmenistan,2003,,
+Tuvalu,2003,0.608,
+United Arab Emirates,2003,0.807,0.73
+Uzbekistan,2003,0.624,0.305
+Vanuatu,2003,,
+Viet Nam,2003,0.628,0.328
+Yemen,2003,0.462,0.832
+"Hong Kong, China (SAR)",2003,0.854,
+Israel,2003,0.843,0.174
+Japan,2003,0.889,0.156
+North Korea,2003,,
+North Korea,2003,,
+South Korea,2003,0.845,0.152
+Russian Federation,2003,0.757,0.37
+Afghanistan,2004,0.395,
+Armenia,2004,0.689,0.404
+Azerbaijan,2004,0.67,0.362
+Bahrain,2004,0.795,0.355
+Bangladesh,2004,0.518,0.738
+Belarus,2004,0.74,0.157
+Bhutan,2004,,
+Brunei Darussalam,2004,0.807,
+Cambodia,2004,0.499,0.584
+China,2004,0.631,0.275
+Fiji,2004,0.682,0.437
+Georgia,2004,0.727,0.399
+India,2004,0.523,0.631
+Indonesia,2004,0.621,0.552
+Iran,2004,0.722,0.526
+Iraq,2004,0.588,0.678
+Jordan,2004,0.707,0.551
+Kazakhstan,2004,0.729,0.329
+Kiribati,2004,0.585,
+North Korea,2004,,
+North Korea,2004,,
+Kuwait,2004,0.8,0.68
+Kyrgyzstan,2004,0.638,0.434
+Lao People's Democratic Republic,2004,0.506,0.574
+Lebanon,2004,,
+Malaysia,2004,0.731,0.288
+Maldives,2004,0.656,0.436
+Marshall Islands,2004,,
+Micronesia (Federated States of),2004,0.641,
+Moldova (Republic of),2004,0.691,0.292
+Mongolia,2004,0.646,0.391
+Montenegro,2004,0.758,
+Myanmar,2004,0.445,
+Nauru,2004,,
+Nepal,2004,0.484,0.639
+North Macedonia,2004,0.697,0.214
+Oman,2004,0.74,0.368
+Pakistan,2004,0.468,0.658
+Palau,2004,0.768,
+"Palestine, State of",2004,0.652,
+Papua New Guinea,2004,0.465,0.693
+Philippines,2004,0.658,0.463
+Qatar,2004,0.804,
+Samoa,2004,0.688,
+Saudi Arabia,2004,0.775,0.766
+Singapore,2004,0.886,0.154
+Solomon Islands,2004,0.51,
+Sri Lanka,2004,0.683,0.446
+Syrian Arab Republic,2004,0.626,0.475
+Tajikistan,2004,0.591,0.375
+Thailand,2004,0.707,0.401
+Timor-Leste,2004,0.536,0.555
+Tonga,2004,0.694,
+Türkiye,2004,0.696,0.516
+Turkmenistan,2004,,
+Tuvalu,2004,0.614,
+United Arab Emirates,2004,0.811,0.727
+Uzbekistan,2004,0.631,0.219
+Vanuatu,2004,,
+Viet Nam,2004,0.637,0.329
+Yemen,2004,0.47,0.838
+"Hong Kong, China (SAR)",2004,0.863,
+Israel,2004,0.847,0.171
+Japan,2004,0.893,0.158
+North Korea,2004,,
+North Korea,2004,,
+South Korea,2004,0.853,0.091
+Russian Federation,2004,0.764,0.345
+Afghanistan,2005,0.402,
+Armenia,2005,0.701,0.394
+Azerbaijan,2005,0.682,0.352
+Bahrain,2005,0.791,0.358
+Bangladesh,2005,0.525,0.652
+Belarus,2005,0.749,0.155
+Bhutan,2005,,
+Brunei Darussalam,2005,0.811,
+Cambodia,2005,0.51,0.576
+China,2005,0.643,0.274
+Fiji,2005,0.684,0.434
+Georgia,2005,0.738,0.402
+India,2005,0.532,0.619
+Indonesia,2005,0.634,0.55
+Iran,2005,0.727,0.506
+Iraq,2005,0.591,0.678
+Jordan,2005,0.713,0.551
+Kazakhstan,2005,0.739,0.335
+Kiribati,2005,0.585,
+North Korea,2005,,
+North Korea,2005,,
+Kuwait,2005,0.8,0.364
+Kyrgyzstan,2005,0.64,0.766
+Lao People's Democratic Republic,2005,0.516,0.568
+Lebanon,2005,0.71,
+Malaysia,2005,0.728,0.286
+Maldives,2005,0.655,0.39
+Marshall Islands,2005,,
+Micronesia (Federated States of),2005,0.642,
+Moldova (Republic of),2005,0.698,0.274
+Mongolia,2005,0.658,0.383
+Montenegro,2005,0.761,
+Myanmar,2005,0.456,
+Nauru,2005,0.527,
+Nepal,2005,0.492,0.635
+North Macedonia,2005,0.704,0.209
+Oman,2005,0.748,0.353
+Pakistan,2005,0.477,0.654
+Palau,2005,0.779,
+"Palestine, State of",2005,0.662,
+Papua New Guinea,2005,0.469,0.693
+Philippines,2005,0.659,0.461
+Qatar,2005,0.811,
+Samoa,2005,0.692,
+Saudi Arabia,2005,0.783,0.759
+Singapore,2005,0.896,0.148
+Solomon Islands,2005,0.516,
+Sri Lanka,2005,0.71,0.436
+Syrian Arab Republic,2005,0.639,0.483
+Tajikistan,2005,0.606,0.346
+Thailand,2005,0.715,0.388
+Timor-Leste,2005,0.553,0.552
+Tonga,2005,0.695,
+Türkiye,2005,0.701,0.515
+Turkmenistan,2005,0.652,
+Tuvalu,2005,0.614,
+United Arab Emirates,2005,0.815,0.713
+Uzbekistan,2005,0.636,0.226
+Vanuatu,2005,0.557,
+Viet Nam,2005,0.645,0.329
+Yemen,2005,0.476,0.814
+"Hong Kong, China (SAR)",2005,0.871,
+Israel,2005,0.856,0.168
+Japan,2005,0.894,0.145
+North Korea,2005,,
+North Korea,2005,,
+South Korea,2005,0.861,0.093
+Russian Federation,2005,0.767,0.338
+Afghanistan,2006,0.41,
+Armenia,2006,0.714,0.389
+Azerbaijan,2006,0.701,0.354
+Bahrain,2006,0.794,0.291
+Bangladesh,2006,0.53,0.643
+Belarus,2006,0.761,0.149
+Bhutan,2006,,
+Brunei Darussalam,2006,0.817,
+Cambodia,2006,0.522,0.567
+China,2006,0.656,0.269
+Fiji,2006,0.687,0.427
+Georgia,2006,0.744,0.398
+India,2006,0.541,0.604
+Indonesia,2006,0.643,0.543
+Iran,2006,0.738,0.505
+Iraq,2006,0.591,0.63
+Jordan,2006,0.719,0.54
+Kazakhstan,2006,0.75,0.327
+Kiribati,2006,0.581,
+North Korea,2006,,
+North Korea,2006,,
+Kuwait,2006,0.8,0.347
+Kyrgyzstan,2006,0.646,0.766
+Lao People's Democratic Republic,2006,0.517,0.559
+Lebanon,2006,0.711,
+Malaysia,2006,0.732,0.281
+Maldives,2006,0.67,0.378
+Marshall Islands,2006,,
+Micronesia (Federated States of),2006,0.643,
+Moldova (Republic of),2006,0.706,0.265
+Mongolia,2006,0.669,0.403
+Montenegro,2006,0.771,0.243
+Myanmar,2006,0.466,
+Nauru,2006,0.499,
+Nepal,2006,0.503,0.626
+North Macedonia,2006,0.712,0.183
+Oman,2006,0.757,0.345
+Pakistan,2006,0.485,0.624
+Palau,2006,0.78,
+"Palestine, State of",2006,0.662,
+Papua New Guinea,2006,0.471,0.693
+Philippines,2006,0.659,0.461
+Qatar,2006,0.818,0.698
+Samoa,2006,0.695,
+Saudi Arabia,2006,0.785,0.755
+Singapore,2006,0.901,0.121
+Solomon Islands,2006,0.523,
+Sri Lanka,2006,0.713,0.412
+Syrian Arab Republic,2006,0.65,0.489
+Tajikistan,2006,0.615,0.344
+Thailand,2006,0.721,0.401
+Timor-Leste,2006,0.579,0.548
+Tonga,2006,0.696,
+Türkiye,2006,0.711,0.506
+Turkmenistan,2006,0.661,
+Tuvalu,2006,0.616,
+United Arab Emirates,2006,0.82,0.323
+Uzbekistan,2006,0.642,0.223
+Vanuatu,2006,0.564,
+Viet Nam,2006,0.653,0.333
+Yemen,2006,0.481,0.812
+"Hong Kong, China (SAR)",2006,0.878,
+Israel,2006,0.864,0.169
+Japan,2006,0.898,0.14
+North Korea,2006,,
+North Korea,2006,,
+South Korea,2006,0.866,0.095
+Russian Federation,2006,0.778,0.329
+Afghanistan,2007,0.426,
+Armenia,2007,0.73,0.348
+Azerbaijan,2007,0.714,0.353
+Bahrain,2007,0.8,0.268
+Bangladesh,2007,0.533,0.643
+Belarus,2007,0.772,0.15
+Bhutan,2007,,
+Brunei Darussalam,2007,0.82,
+Cambodia,2007,0.531,0.536
+China,2007,0.668,0.264
+Fiji,2007,0.689,0.422
+Georgia,2007,0.755,0.398
+India,2007,0.55,0.595
+Indonesia,2007,0.646,0.536
+Iran,2007,0.742,0.508
+Iraq,2007,0.596,0.604
+Jordan,2007,0.716,0.515
+Kazakhstan,2007,0.757,0.302
+Kiribati,2007,0.582,
+North Korea,2007,,
+North Korea,2007,,
+Kuwait,2007,0.802,0.344
+Kyrgyzstan,2007,0.652,0.359
+Lao People's Democratic Republic,2007,0.531,0.552
+Lebanon,2007,0.724,0.412
+Malaysia,2007,0.744,0.264
+Maldives,2007,0.67,0.362
+Marshall Islands,2007,,
+Micronesia (Federated States of),2007,0.642,
+Moldova (Republic of),2007,0.711,0.249
+Mongolia,2007,0.68,0.389
+Montenegro,2007,0.783,0.218
+Myanmar,2007,0.475,
+Nauru,2007,0.506,
+Nepal,2007,0.508,0.574
+North Macedonia,2007,0.717,0.179
+Oman,2007,0.764,0.338
+Pakistan,2007,0.49,0.621
+Palau,2007,0.782,
+"Palestine, State of",2007,0.672,
+Papua New Guinea,2007,0.479,0.693
+Philippines,2007,0.663,0.445
+Qatar,2007,0.827,0.691
+Samoa,2007,0.7,
+Saudi Arabia,2007,0.786,0.756
+Singapore,2007,0.906,0.107
+Solomon Islands,2007,0.524,
+Sri Lanka,2007,0.718,0.405
+Syrian Arab Republic,2007,0.657,0.495
+Tajikistan,2007,0.62,0.346
+Thailand,2007,0.732,0.388
+Timor-Leste,2007,0.601,0.534
+Tonga,2007,0.698,
+Türkiye,2007,0.718,0.453
+Turkmenistan,2007,0.672,
+Tuvalu,2007,0.618,
+United Arab Emirates,2007,0.825,0.208
+Uzbekistan,2007,0.655,0.221
+Vanuatu,2007,0.567,
+Viet Nam,2007,0.66,0.34
+Yemen,2007,0.485,0.806
+"Hong Kong, China (SAR)",2007,0.892,
+Israel,2007,0.876,0.17
+Japan,2007,0.9,0.132
+North Korea,2007,,
+North Korea,2007,,
+South Korea,2007,0.871,0.091
+Russian Federation,2007,0.789,0.293
+Afghanistan,2008,0.431,0.69
+Armenia,2008,0.733,0.338
+Azerbaijan,2008,0.723,0.354
+Bahrain,2008,0.803,0.264
+Bangladesh,2008,0.535,0.672
+Belarus,2008,0.782,0.145
+Bhutan,2008,,
+Brunei Darussalam,2008,0.821,
+Cambodia,2008,0.536,0.526
+China,2008,0.678,0.263
+Fiji,2008,0.693,0.415
+Georgia,2008,0.751,0.432
+India,2008,0.557,0.596
+Indonesia,2008,0.649,0.535
+Iran,2008,0.744,0.551
+Iraq,2008,0.612,0.605
+Jordan,2008,0.726,0.516
+Kazakhstan,2008,0.757,0.299
+Kiribati,2008,0.583,
+North Korea,2008,,
+North Korea,2008,,
+Kuwait,2008,0.806,0.287
+Kyrgyzstan,2008,0.657,0.358
+Lao People's Democratic Republic,2008,0.539,0.551
+Lebanon,2008,0.733,0.412
+Malaysia,2008,0.754,0.275
+Maldives,2008,0.682,0.371
+Marshall Islands,2008,,
+Micronesia (Federated States of),2008,0.641,
+Moldova (Republic of),2008,0.718,0.24
+Mongolia,2008,0.69,0.42
+Montenegro,2008,0.797,0.224
+Myanmar,2008,0.461,
+Nauru,2008,0.547,
+Nepal,2008,0.518,0.533
+North Macedonia,2008,0.736,0.173
+Oman,2008,0.77,0.342
+Pakistan,2008,0.489,0.611
+Palau,2008,0.78,
+"Palestine, State of",2008,0.678,
+Papua New Guinea,2008,0.484,0.684
+Philippines,2008,0.666,0.443
+Qatar,2008,0.835,0.69
+Samoa,2008,0.702,
+Saudi Arabia,2008,0.794,0.753
+Singapore,2008,0.91,0.098
+Solomon Islands,2008,0.533,
+Sri Lanka,2008,0.719,0.398
+Syrian Arab Republic,2008,0.651,0.487
+Tajikistan,2008,0.628,0.351
+Thailand,2008,0.735,0.377
+Timor-Leste,2008,0.627,0.532
+Tonga,2008,0.704,
+Türkiye,2008,0.721,0.439
+Turkmenistan,2008,0.682,
+Tuvalu,2008,0.624,
+United Arab Emirates,2008,0.827,0.192
+Uzbekistan,2008,0.66,0.228
+Vanuatu,2008,0.575,
+Viet Nam,2008,0.665,0.346
+Yemen,2008,0.488,0.804
+"Hong Kong, China (SAR)",2008,0.908,
+Israel,2008,0.877,0.17
+Japan,2008,0.901,0.132
+North Korea,2008,,
+North Korea,2008,,
+South Korea,2008,0.874,0.096
+Russian Federation,2008,0.793,0.286
+Afghanistan,2009,0.441,0.696
+Armenia,2009,0.732,0.342
+Azerbaijan,2009,0.729,0.357
+Bahrain,2009,0.803,0.264
+Bangladesh,2009,0.547,0.613
+Belarus,2009,0.784,0.158
+Bhutan,2009,,
+Brunei Darussalam,2009,0.823,
+Cambodia,2009,0.538,0.514
+China,2009,0.689,0.258
+Fiji,2009,0.696,0.41
+Georgia,2009,0.756,0.452
+India,2009,0.562,0.578
+Indonesia,2009,0.66,0.505
+Iran,2009,0.748,0.553
+Iraq,2009,0.622,0.604
+Jordan,2009,0.728,0.512
+Kazakhstan,2009,0.76,0.283
+Kiribati,2009,0.58,
+North Korea,2009,,
+North Korea,2009,,
+Kuwait,2009,0.808,0.22
+Kyrgyzstan,2009,0.661,0.358
+Lao People's Democratic Republic,2009,0.549,0.544
+Lebanon,2009,0.741,0.437
+Malaysia,2009,0.761,0.277
+Maldives,2009,0.684,0.415
+Marshall Islands,2009,,
+Micronesia (Federated States of),2009,0.642,
+Moldova (Republic of),2009,0.713,0.228
+Mongolia,2009,0.694,0.418
+Montenegro,2009,0.798,0.227
+Myanmar,2009,0.497,
+Nauru,2009,0.545,
+Nepal,2009,0.53,0.529
+North Macedonia,2009,0.74,0.172
+Oman,2009,0.784,0.356
+Pakistan,2009,0.493,0.602
+Palau,2009,0.777,
+"Palestine, State of",2009,0.683,
+Papua New Guinea,2009,0.489,0.682
+Philippines,2009,0.666,0.442
+Qatar,2009,0.833,0.686
+Samoa,2009,0.693,
+Saudi Arabia,2009,0.798,0.753
+Singapore,2009,0.91,0.09
+Solomon Islands,2009,0.54,
+Sri Lanka,2009,0.711,0.405
+Syrian Arab Republic,2009,0.66,0.491
+Tajikistan,2009,0.629,0.358
+Thailand,2009,0.738,0.37
+Timor-Leste,2009,0.625,0.533
+Tonga,2009,0.704,
+Türkiye,2009,0.728,0.429
+Turkmenistan,2009,0.69,
+Tuvalu,2009,0.622,
+United Arab Emirates,2009,0.825,0.185
+Uzbekistan,2009,0.666,0.257
+Vanuatu,2009,0.576,
+Viet Nam,2009,0.671,0.355
+Yemen,2009,0.493,0.8
+"Hong Kong, China (SAR)",2009,0.91,
+Israel,2009,0.881,0.149
+Japan,2009,0.9,0.123
+North Korea,2009,,
+North Korea,2009,,
+South Korea,2009,0.876,0.093
+Russian Federation,2009,0.791,0.288
+Afghanistan,2010,0.449,0.707
+Armenia,2010,0.739,0.346
+Azerbaijan,2010,0.733,0.342
+Bahrain,2010,0.807,0.259
+Bangladesh,2010,0.558,0.602
+Belarus,2010,0.79,0.148
+Bhutan,2010,0.582,0.476
+Brunei Darussalam,2010,0.825,
+Cambodia,2010,0.542,0.514
+China,2010,0.698,0.247
+Fiji,2010,0.699,0.405
+Georgia,2010,0.763,0.432
+India,2010,0.572,0.563
+Indonesia,2010,0.667,0.497
+Iran,2010,0.756,0.546
+Iraq,2010,0.629,0.602
+Jordan,2010,0.727,0.487
+Kazakhstan,2010,0.766,0.266
+Kiribati,2010,0.584,
+North Korea,2010,,
+North Korea,2010,,
+Kuwait,2010,0.811,0.209
+Kyrgyzstan,2010,0.661,0.363
+Lao People's Democratic Republic,2010,0.557,0.533
+Lebanon,2010,0.749,0.432
+Malaysia,2010,0.768,0.264
+Maldives,2010,0.692,0.402
+Marshall Islands,2010,,
+Micronesia (Federated States of),2010,0.644,
+Moldova (Republic of),2010,0.716,0.24
+Mongolia,2010,0.7,0.415
+Montenegro,2010,0.806,0.21
+Myanmar,2010,0.506,
+Nauru,2010,0.559,
+Nepal,2010,0.543,0.527
+North Macedonia,2010,0.746,0.172
+Oman,2010,0.798,0.34
+Pakistan,2010,0.496,0.593
+Palau,2010,0.775,
+"Palestine, State of",2010,0.688,
+Papua New Guinea,2010,0.497,0.682
+Philippines,2010,0.673,0.443
+Qatar,2010,0.829,0.669
+Samoa,2010,0.704,
+Saudi Arabia,2010,0.805,0.746
+Singapore,2010,0.921,0.085
+Solomon Islands,2010,0.553,
+Sri Lanka,2010,0.735,0.415
+Syrian Arab Republic,2010,0.661,0.493
+Tajikistan,2010,0.631,0.369
+Thailand,2010,0.743,0.365
+Timor-Leste,2010,0.639,0.53
+Tonga,2010,0.709,
+Türkiye,2010,0.75,0.416
+Turkmenistan,2010,0.699,
+Tuvalu,2010,0.623,
+United Arab Emirates,2010,0.828,0.177
+Uzbekistan,2010,0.675,0.271
+Vanuatu,2010,0.578,
+Viet Nam,2010,0.676,0.363
+Yemen,2010,0.496,0.792
+"Hong Kong, China (SAR)",2010,0.914,
+Israel,2010,0.887,0.145
+Japan,2010,0.903,0.117
+North Korea,2010,,
+North Korea,2010,,
+South Korea,2010,0.89,0.095
+Russian Federation,2010,0.797,0.275
+Afghanistan,2011,0.457,0.718
+Armenia,2011,0.743,0.342
+Azerbaijan,2011,0.735,0.341
+Bahrain,2011,0.812,0.246
+Bangladesh,2011,0.565,0.595
+Belarus,2011,0.798,0.145
+Bhutan,2011,0.591,0.45
+Brunei Darussalam,2011,0.829,
+Cambodia,2011,0.546,0.511
+China,2011,0.706,0.25
+Fiji,2011,0.704,0.397
+Georgia,2011,0.771,0.425
+India,2011,0.586,0.555
+Indonesia,2011,0.674,0.501
+Iran,2011,0.765,0.545
+Iraq,2011,0.637,0.602
+Jordan,2011,0.73,0.485
+Kazakhstan,2011,0.774,0.259
+Kiribati,2011,0.583,
+North Korea,2011,,
+North Korea,2011,,
+Kuwait,2011,0.817,0.2
+Kyrgyzstan,2011,0.664,0.369
+Lao People's Democratic Republic,2011,0.569,0.528
+Lebanon,2011,0.755,0.443
+Malaysia,2011,0.771,0.264
+Maldives,2011,0.701,0.396
+Marshall Islands,2011,0.656,
+Micronesia (Federated States of),2011,0.646,
+Moldova (Republic of),2011,0.719,0.234
+Mongolia,2011,0.71,0.418
+Montenegro,2011,0.811,0.189
+Myanmar,2011,0.517,
+Nauru,2011,0.572,
+Nepal,2011,0.552,0.515
+North Macedonia,2011,0.751,0.166
+Oman,2011,0.811,0.329
+Pakistan,2011,0.5,0.588
+Palau,2011,0.778,
+"Palestine, State of",2011,0.696,
+Papua New Guinea,2011,0.502,0.675
+Philippines,2011,0.677,0.438
+Qatar,2011,0.83,0.669
+Samoa,2011,0.706,
+Saudi Arabia,2011,0.816,0.742
+Singapore,2011,0.924,0.086
+Solomon Islands,2011,0.557,
+Sri Lanka,2011,0.741,0.404
+Syrian Arab Republic,2011,0.687,0.48
+Tajikistan,2011,0.636,0.364
+Thailand,2011,0.749,0.354
+Timor-Leste,2011,0.649,0.509
+Tonga,2011,0.716,
+Türkiye,2011,0.763,0.381
+Turkmenistan,2011,0.708,
+Tuvalu,2011,0.623,
+United Arab Emirates,2011,0.835,0.185
+Uzbekistan,2011,0.682,0.283
+Vanuatu,2011,0.581,
+Viet Nam,2011,0.681,0.37
+Yemen,2011,0.495,0.792
+"Hong Kong, China (SAR)",2011,0.921,
+Israel,2011,0.89,0.138
+Japan,2011,0.902,0.116
+North Korea,2011,,
+North Korea,2011,,
+South Korea,2011,0.895,0.097
+Russian Federation,2011,0.807,0.261
+Afghanistan,2012,0.467,0.734
+Armenia,2012,0.751,0.325
+Azerbaijan,2012,0.739,0.341
+Bahrain,2012,0.827,0.242
+Bangladesh,2012,0.575,0.581
+Belarus,2012,0.805,0.15
+Bhutan,2012,0.597,0.432
+Brunei Darussalam,2012,0.836,
+Cambodia,2012,0.551,0.518
+China,2012,0.715,0.244
+Fiji,2012,0.707,0.399
+Georgia,2012,0.779,0.377
+India,2012,0.594,0.55
+Indonesia,2012,0.682,0.489
+Iran,2012,0.78,0.528
+Iraq,2012,0.644,0.599
+Jordan,2012,0.736,0.488
+Kazakhstan,2012,0.781,0.234
+Kiribati,2012,0.593,
+North Korea,2012,,
+North Korea,2012,,
+Kuwait,2012,0.821,0.211
+Kyrgyzstan,2012,0.673,0.37
+Lao People's Democratic Republic,2012,0.578,0.52
+Lebanon,2012,0.757,0.443
+Malaysia,2012,0.777,0.253
+Maldives,2012,0.708,0.378
+Marshall Islands,2012,0.659,
+Micronesia (Federated States of),2012,0.644,
+Moldova (Republic of),2012,0.722,0.229
+Mongolia,2012,0.72,0.347
+Montenegro,2012,0.813,0.163
+Myanmar,2012,0.526,
+Nauru,2012,0.586,
+Nepal,2012,0.557,0.514
+North Macedonia,2012,0.755,0.165
+Oman,2012,0.813,0.328
+Pakistan,2012,0.504,0.582
+Palau,2012,0.78,
+"Palestine, State of",2012,0.702,
+Papua New Guinea,2012,0.51,0.621
+Philippines,2012,0.684,0.435
+Qatar,2012,0.84,0.672
+Samoa,2012,0.703,
+Saudi Arabia,2012,0.824,0.741
+Singapore,2012,0.926,0.078
+Solomon Islands,2012,0.558,
+Sri Lanka,2012,0.747,0.404
+Syrian Arab Republic,2012,0.638,0.483
+Tajikistan,2012,0.641,0.356
+Thailand,2012,0.752,0.351
+Timor-Leste,2012,0.644,0.481
+Tonga,2012,0.718,
+Türkiye,2012,0.772,0.366
+Turkmenistan,2012,0.714,
+Tuvalu,2012,0.631,
+United Arab Emirates,2012,0.841,0.177
+Uzbekistan,2012,0.688,0.283
+Vanuatu,2012,0.581,
+Viet Nam,2012,0.684,0.374
+Yemen,2012,0.497,0.794
+"Hong Kong, China (SAR)",2012,0.925,
+Israel,2012,0.891,0.132
+Japan,2012,0.906,0.126
+North Korea,2012,,
+North Korea,2012,,
+South Korea,2012,0.897,0.095
+Russian Federation,2012,0.811,0.243
+Afghanistan,2013,0.475,0.712
+Armenia,2013,0.757,0.31
+Azerbaijan,2013,0.745,0.343
+Bahrain,2013,0.839,0.239
+Bangladesh,2013,0.577,0.576
+Belarus,2013,0.806,0.146
+Bhutan,2013,0.604,0.465
+Brunei Darussalam,2013,0.835,
+Cambodia,2013,0.554,0.51
+China,2013,0.723,0.235
+Fiji,2013,0.712,0.402
+Georgia,2013,0.784,0.372
+India,2013,0.6,0.549
+Indonesia,2013,0.687,0.482
+Iran,2013,0.78,0.544
+Iraq,2013,0.648,0.59
+Jordan,2013,0.738,0.485
+Kazakhstan,2013,0.789,0.231
+Kiribati,2013,0.602,
+North Korea,2013,,
+North Korea,2013,,
+Kuwait,2013,0.813,0.196
+Kyrgyzstan,2013,0.68,0.378
+Lao People's Democratic Republic,2013,0.587,0.515
+Lebanon,2013,0.756,0.444
+Malaysia,2013,0.782,0.248
+Maldives,2013,0.715,0.366
+Marshall Islands,2013,0.669,
+Micronesia (Federated States of),2013,0.642,
+Moldova (Republic of),2013,0.726,0.229
+Mongolia,2013,0.73,0.336
+Montenegro,2013,0.819,0.162
+Myanmar,2013,0.538,
+Nauru,2013,0.597,
+Nepal,2013,0.563,0.507
+North Macedonia,2013,0.763,0.154
+Oman,2013,0.814,0.332
+Pakistan,2013,0.51,0.575
+Palau,2013,0.776,
+"Palestine, State of",2013,0.704,
+Papua New Guinea,2013,0.516,0.614
+Philippines,2013,0.689,0.423
+Qatar,2013,0.852,0.675
+Samoa,2013,0.704,
+Saudi Arabia,2013,0.831,0.295
+Singapore,2013,0.93,0.069
+Solomon Islands,2013,0.563,
+Sri Lanka,2013,0.752,0.388
+Syrian Arab Republic,2013,0.558,0.489
+Tajikistan,2013,0.647,0.348
+Thailand,2013,0.754,0.348
+Timor-Leste,2013,0.64,0.467
+Tonga,2013,0.719,
+Türkiye,2013,0.802,0.353
+Turkmenistan,2013,0.716,
+Tuvalu,2013,0.637,
+United Arab Emirates,2013,0.847,0.168
+Uzbekistan,2013,0.693,0.274
+Vanuatu,2013,0.586,
+Viet Nam,2013,0.689,0.378
+Yemen,2013,0.496,0.796
+"Hong Kong, China (SAR)",2013,0.928,
+Israel,2013,0.896,0.118
+Japan,2013,0.909,0.128
+North Korea,2013,,
+North Korea,2013,,
+South Korea,2013,0.902,0.096
+Russian Federation,2013,0.816,0.232
+Afghanistan,2014,0.48,0.692
+Armenia,2014,0.764,0.314
+Azerbaijan,2014,0.749,0.347
+Bahrain,2014,0.839,0.231
+Bangladesh,2014,0.585,0.567
+Belarus,2014,0.81,0.137
+Bhutan,2014,0.615,0.442
+Brunei Darussalam,2014,0.834,
+Cambodia,2014,0.559,0.507
+China,2014,0.732,0.229
+Fiji,2014,0.715,0.369
+Georgia,2014,0.793,0.362
+India,2014,0.611,0.54
+Indonesia,2014,0.69,0.483
+Iran,2014,0.783,0.539
+Iraq,2014,0.651,0.577
+Jordan,2014,0.737,0.487
+Kazakhstan,2014,0.794,0.227
+Kiribati,2014,0.612,
+North Korea,2014,,
+North Korea,2014,,
+Kuwait,2014,0.816,0.3
+Kyrgyzstan,2014,0.686,0.37
+Lao People's Democratic Republic,2014,0.597,0.497
+Lebanon,2014,0.755,0.444
+Malaysia,2014,0.787,0.24
+Maldives,2014,0.723,0.378
+Marshall Islands,2014,0.676,
+Micronesia (Federated States of),2014,0.64,
+Moldova (Republic of),2014,0.749,0.248
+Mongolia,2014,0.735,0.329
+Montenegro,2014,0.822,0.153
+Myanmar,2014,0.548,
+Nauru,2014,0.618,
+Nepal,2014,0.567,0.511
+North Macedonia,2014,0.769,0.159
+Oman,2014,0.818,0.323
+Pakistan,2014,0.519,0.571
+Palau,2014,0.777,
+"Palestine, State of",2014,0.698,
+Papua New Guinea,2014,0.531,0.61
+Philippines,2014,0.693,0.408
+Qatar,2014,0.85,0.664
+Samoa,2014,0.707,
+Saudi Arabia,2014,0.836,0.294
+Singapore,2014,0.932,0.062
+Solomon Islands,2014,0.562,
+Sri Lanka,2014,0.757,0.375
+Syrian Arab Republic,2014,0.544,0.487
+Tajikistan,2014,0.649,0.347
+Thailand,2014,0.785,0.404
+Timor-Leste,2014,0.63,0.451
+Tonga,2014,0.721,
+Türkiye,2014,0.812,0.348
+Turkmenistan,2014,0.719,
+Tuvalu,2014,0.637,
+United Arab Emirates,2014,0.853,0.159
+Uzbekistan,2014,0.698,0.27
+Vanuatu,2014,0.59,
+Viet Nam,2014,0.693,0.38
+Yemen,2014,0.485,0.803
+"Hong Kong, China (SAR)",2014,0.932,
+Israel,2014,0.899,0.115
+Japan,2014,0.91,0.127
+North Korea,2014,,
+North Korea,2014,,
+South Korea,2014,0.906,0.091
+Russian Federation,2014,0.818,0.223
+Afghanistan,2015,0.479,0.692
+Armenia,2015,0.769,0.299
+Azerbaijan,2015,0.751,0.342
+Bahrain,2015,0.859,0.241
+Bangladesh,2015,0.604,0.559
+Belarus,2015,0.809,0.126
+Bhutan,2015,0.625,0.428
+Brunei Darussalam,2015,0.832,
+Cambodia,2015,0.564,0.497
+China,2015,0.741,0.223
+Fiji,2015,0.716,0.354
+Georgia,2015,0.798,0.362
+India,2015,0.619,0.51
+Indonesia,2015,0.698,0.479
+Iran,2015,0.782,0.524
+Iraq,2015,0.656,0.571
+Jordan,2015,0.738,0.476
+Kazakhstan,2015,0.799,0.215
+Kiribati,2015,0.625,
+North Korea,2015,,
+North Korea,2015,,
+Kuwait,2015,0.829,0.298
+Kyrgyzstan,2015,0.689,0.379
+Lao People's Democratic Republic,2015,0.604,0.495
+Lebanon,2015,0.756,0.442
+Malaysia,2015,0.792,0.236
+Maldives,2015,0.728,0.37
+Marshall Islands,2015,0.688,
+Micronesia (Federated States of),2015,0.642,
+Moldova (Republic of),2015,0.749,0.235
+Mongolia,2015,0.739,0.334
+Montenegro,2015,0.827,0.149
+Myanmar,2015,0.557,0.496
+Nauru,2015,0.642,
+Nepal,2015,0.568,0.507
+North Macedonia,2015,0.777,0.154
+Oman,2015,0.824,0.326
+Pakistan,2015,0.525,0.559
+Palau,2015,0.782,
+"Palestine, State of",2015,0.71,
+Papua New Guinea,2015,0.54,0.6
+Philippines,2015,0.696,0.403
+Qatar,2015,0.852,0.656
+Samoa,2015,0.71,
+Saudi Arabia,2015,0.842,0.288
+Singapore,2015,0.935,0.057
+Solomon Islands,2015,0.562,
+Sri Lanka,2015,0.76,0.377
+Syrian Arab Republic,2015,0.552,0.481
+Tajikistan,2015,0.651,0.339
+Thailand,2015,0.789,0.399
+Timor-Leste,2015,0.621,0.444
+Tonga,2015,0.723,
+Türkiye,2015,0.821,0.336
+Turkmenistan,2015,0.725,
+Tuvalu,2015,0.656,
+United Arab Emirates,2015,0.86,0.135
+Uzbekistan,2015,0.701,0.275
+Vanuatu,2015,0.592,
+Viet Nam,2015,0.697,0.384
+Yemen,2015,0.455,0.811
+"Hong Kong, China (SAR)",2015,0.936,
+Israel,2015,0.899,0.105
+Japan,2015,0.913,0.118
+North Korea,2015,,
+North Korea,2015,,
+South Korea,2015,0.908,0.088
+Russian Federation,2015,0.823,0.207
+Afghanistan,2016,0.483,0.688
+Armenia,2016,0.773,0.295
+Azerbaijan,2016,0.752,0.328
+Bahrain,2016,0.862,0.236
+Bangladesh,2016,0.613,0.554
+Belarus,2016,0.809,0.117
+Bhutan,2016,0.635,0.411
+Brunei Darussalam,2016,0.83,0.308
+Cambodia,2016,0.573,0.49
+China,2016,0.749,0.214
+Fiji,2016,0.721,0.354
+Georgia,2016,0.802,0.323
+India,2016,0.63,0.505
+Indonesia,2016,0.701,0.473
+Iran,2016,0.785,0.471
+Iraq,2016,0.661,0.554
+Jordan,2016,0.74,0.441
+Kazakhstan,2016,0.797,0.209
+Kiribati,2016,0.619,
+North Korea,2016,,
+North Korea,2016,,
+Kuwait,2016,0.832,0.285
+Kyrgyzstan,2016,0.692,0.365
+Lao People's Democratic Republic,2016,0.61,0.481
+Lebanon,2016,0.76,0.442
+Malaysia,2016,0.798,0.227
+Maldives,2016,0.734,0.355
+Marshall Islands,2016,0.695,
+Micronesia (Federated States of),2016,0.643,
+Moldova (Republic of),2016,0.755,0.227
+Mongolia,2016,0.741,0.329
+Montenegro,2016,0.826,0.129
+Myanmar,2016,0.567,0.512
+Nauru,2016,0.655,
+Nepal,2016,0.574,0.508
+North Macedonia,2016,0.782,0.155
+Oman,2016,0.832,0.315
+Pakistan,2016,0.533,0.562
+Palau,2016,0.784,
+"Palestine, State of",2016,0.715,
+Papua New Guinea,2016,0.547,0.598
+Philippines,2016,0.696,0.395
+Qatar,2016,0.853,0.65
+Samoa,2016,0.714,
+Saudi Arabia,2016,0.846,0.284
+Singapore,2016,0.937,0.048
+Solomon Islands,2016,0.564,
+Sri Lanka,2016,0.765,0.363
+Syrian Arab Republic,2016,0.551,0.475
+Tajikistan,2016,0.655,0.306
+Thailand,2016,0.793,0.391
+Timor-Leste,2016,0.61,0.431
+Tonga,2016,0.728,
+Türkiye,2016,0.826,0.329
+Turkmenistan,2016,0.729,
+Tuvalu,2016,0.651,
+United Arab Emirates,2016,0.866,0.128
+Uzbekistan,2016,0.709,0.265
+Vanuatu,2016,0.596,
+Viet Nam,2016,0.702,0.38
+Yemen,2016,0.443,0.809
+"Hong Kong, China (SAR)",2016,0.939,
+Israel,2016,0.902,0.102
+Japan,2016,0.914,0.104
+North Korea,2016,,
+North Korea,2016,,
+South Korea,2016,0.912,0.083
+Russian Federation,2016,0.826,0.197
+Afghanistan,2017,0.485,0.681
+Armenia,2017,0.775,0.254
+Azerbaijan,2017,0.754,0.314
+Bahrain,2017,0.867,0.236
+Bangladesh,2017,0.622,0.538
+Belarus,2017,0.811,0.107
+Bhutan,2017,0.644,0.403
+Brunei Darussalam,2017,0.829,0.281
+Cambodia,2017,0.581,0.491
+China,2017,0.757,0.205
+Fiji,2017,0.728,0.348
+Georgia,2017,0.807,0.306
+India,2017,0.636,0.507
+Indonesia,2017,0.708,0.462
+Iran,2017,0.788,0.464
+Iraq,2017,0.667,0.578
+Jordan,2017,0.744,0.429
+Kazakhstan,2017,0.802,0.196
+Kiribati,2017,0.626,
+North Korea,2017,,
+North Korea,2017,,
+Kuwait,2017,0.835,0.252
+Kyrgyzstan,2017,0.695,0.363
+Lao People's Democratic Republic,2017,0.612,0.48
+Lebanon,2017,0.765,0.444
+Malaysia,2017,0.8,0.218
+Maldives,2017,0.74,0.336
+Marshall Islands,2017,0.702,
+Micronesia (Federated States of),2017,0.643,
+Moldova (Republic of),2017,0.764,0.216
+Mongolia,2017,0.742,0.327
+Montenegro,2017,0.833,0.127
+Myanmar,2017,0.58,0.511
+Nauru,2017,0.664,
+Nepal,2017,0.581,0.531
+North Macedonia,2017,0.789,0.143
+Oman,2017,0.833,0.292
+Pakistan,2017,0.534,0.558
+Palau,2017,0.786,
+"Palestine, State of",2017,0.718,
+Papua New Guinea,2017,0.553,0.821
+Philippines,2017,0.7,0.396
+Qatar,2017,0.862,0.176
+Samoa,2017,0.714,
+Saudi Arabia,2017,0.849,0.296
+Singapore,2017,0.938,0.048
+Solomon Islands,2017,0.566,
+Sri Lanka,2017,0.77,0.361
+Syrian Arab Republic,2017,0.558,0.481
+Tajikistan,2017,0.659,0.283
+Thailand,2017,0.795,0.401
+Timor-Leste,2017,0.614,0.439
+Tonga,2017,0.734,
+Türkiye,2017,0.833,0.31
+Turkmenistan,2017,0.729,
+Tuvalu,2017,0.651,
+United Arab Emirates,2017,0.898,0.112
+Uzbekistan,2017,0.714,0.255
+Vanuatu,2017,0.599,
+Viet Nam,2017,0.706,0.384
+Yemen,2017,0.432,0.809
+"Hong Kong, China (SAR)",2017,0.946,
+Israel,2017,0.906,0.095
+Japan,2017,0.916,0.095
+North Korea,2017,,
+North Korea,2017,,
+South Korea,2017,0.915,0.076
+Russian Federation,2017,0.827,0.18
+Afghanistan,2018,0.486,0.678
+Armenia,2018,0.781,0.24
+Azerbaijan,2018,0.757,0.312
+Bahrain,2018,0.88,0.203
+Bangladesh,2018,0.636,0.531
+Belarus,2018,0.812,0.101
+Bhutan,2018,0.655,0.34
+Brunei Darussalam,2018,0.826,0.283
+Cambodia,2018,0.588,0.491
+China,2018,0.766,0.19
+Fiji,2018,0.731,0.334
+Georgia,2018,0.816,0.303
+India,2018,0.636,0.503
+Indonesia,2018,0.712,0.454
+Iran,2018,0.787,0.458
+Iraq,2018,0.673,0.574
+Jordan,2018,0.742,0.442
+Kazakhstan,2018,0.804,0.194
+Kiribati,2018,0.629,
+North Korea,2018,,
+North Korea,2018,,
+Kuwait,2018,0.836,0.251
+Kyrgyzstan,2018,0.698,0.363
+Lao People's Democratic Republic,2018,0.613,0.478
+Lebanon,2018,0.764,0.412
+Malaysia,2018,0.802,0.201
+Maldives,2018,0.747,0.328
+Marshall Islands,2018,0.71,
+Micronesia (Federated States of),2018,0.642,
+Moldova (Republic of),2018,0.767,0.211
+Mongolia,2018,0.754,0.32
+Montenegro,2018,0.838,0.128
+Myanmar,2018,0.595,0.502
+Nauru,2018,0.668,
+Nepal,2018,0.588,0.512
+North Macedonia,2018,0.796,0.142
+Oman,2018,0.838,0.286
+Pakistan,2018,0.535,0.557
+Palau,2018,0.788,
+"Palestine, State of",2018,0.722,
+Papua New Guinea,2018,0.556,0.819
+Philippines,2018,0.706,0.393
+Qatar,2018,0.866,0.17
+Samoa,2018,0.713,
+Saudi Arabia,2018,0.856,0.286
+Singapore,2018,0.942,0.049
+Solomon Islands,2018,0.568,
+Sri Lanka,2018,0.774,0.366
+Syrian Arab Republic,2018,0.563,0.484
+Tajikistan,2018,0.664,0.287
+Thailand,2018,0.796,0.387
+Timor-Leste,2018,0.616,0.434
+Tonga,2018,0.737,0.405
+Türkiye,2018,0.838,0.286
+Turkmenistan,2018,0.73,
+Tuvalu,2018,0.66,
+United Arab Emirates,2018,0.917,0.099
+Uzbekistan,2018,0.719,0.256
+Vanuatu,2018,0.604,
+Viet Nam,2018,0.711,0.389
+Yemen,2018,0.427,0.808
+"Hong Kong, China (SAR)",2018,0.949,
+Israel,2018,0.908,0.089
+Japan,2018,0.917,0.09
+North Korea,2018,,
+North Korea,2018,,
+South Korea,2018,0.918,0.074
+Russian Federation,2018,0.836,0.171
+Afghanistan,2019,0.492,0.676
+Armenia,2019,0.789,0.219
+Azerbaijan,2019,0.762,0.317
+Bahrain,2019,0.888,0.194
+Bangladesh,2019,0.646,0.521
+Belarus,2019,0.81,0.098
+Bhutan,2019,0.668,0.332
+Brunei Darussalam,2019,0.827,0.285
+Cambodia,2019,0.596,0.492
+China,2019,0.775,0.187
+Fiji,2019,0.73,0.337
+Georgia,2019,0.816,0.3
+India,2019,0.638,0.476
+Indonesia,2019,0.718,0.45
+Iran,2019,0.785,0.464
+Iraq,2019,0.678,0.572
+Jordan,2019,0.744,0.45
+Kazakhstan,2019,0.81,0.19
+Kiribati,2019,0.636,
+North Korea,2019,,
+North Korea,2019,,
+Kuwait,2019,0.838,0.225
+Kyrgyzstan,2019,0.699,0.354
+Lao People's Democratic Republic,2019,0.617,0.472
+Lebanon,2019,0.76,0.386
+Malaysia,2019,0.805,0.201
+Maldives,2019,0.753,0.336
+Marshall Islands,2019,0.722,
+Micronesia (Federated States of),2019,0.64,
+Moldova (Republic of),2019,0.773,0.185
+Mongolia,2019,0.749,0.311
+Montenegro,2019,0.841,0.118
+Myanmar,2019,0.608,0.497
+Nauru,2019,0.68,
+Nepal,2019,0.598,0.502
+North Macedonia,2019,0.787,0.134
+Oman,2019,0.841,0.261
+Pakistan,2019,0.537,0.542
+Palau,2019,0.792,
+"Palestine, State of",2019,0.739,
+Papua New Guinea,2019,0.562,0.816
+Philippines,2019,0.714,0.392
+Qatar,2019,0.869,0.167
+Samoa,2019,0.712,0.432
+Saudi Arabia,2019,0.862,0.278
+Singapore,2019,0.945,0.05
+Solomon Islands,2019,0.568,
+Sri Lanka,2019,0.775,0.369
+Syrian Arab Republic,2019,0.564,0.487
+Tajikistan,2019,0.668,0.291
+Thailand,2019,0.801,0.316
+Timor-Leste,2019,0.627,0.42
+Tonga,2019,0.74,0.43
+Türkiye,2019,0.842,0.277
+Turkmenistan,2019,0.732,
+Tuvalu,2019,0.654,
+United Arab Emirates,2019,0.933,0.045
+Uzbekistan,2019,0.725,0.251
+Vanuatu,2019,0.614,
+Viet Nam,2019,0.717,0.391
+Yemen,2019,0.43,0.789
+"Hong Kong, China (SAR)",2019,0.953,
+Israel,2019,0.909,0.098
+Japan,2019,0.918,0.083
+North Korea,2019,,
+North Korea,2019,,
+South Korea,2019,0.922,0.075
+Russian Federation,2019,0.839,0.164
+Afghanistan,2020,0.488,0.674
+Armenia,2020,0.769,0.223
+Azerbaijan,2020,0.722,0.333
+Bahrain,2020,0.884,0.197
+Bangladesh,2020,0.657,0.502
+Belarus,2020,0.8,0.1
+Bhutan,2020,0.675,0.326
+Brunei Darussalam,2020,0.827,0.285
+Cambodia,2020,0.596,0.489
+China,2020,0.781,0.19
+Fiji,2020,0.722,0.336
+Georgia,2020,0.807,0.277
+India,2020,0.638,0.453
+Indonesia,2020,0.712,0.446
+Iran,2020,0.779,0.485
+Iraq,2020,0.661,0.569
+Jordan,2020,0.74,0.456
+Kazakhstan,2020,0.806,0.185
+Kiribati,2020,0.629,
+North Korea,2020,,
+North Korea,2020,,
+Kuwait,2020,0.826,0.203
+Kyrgyzstan,2020,0.691,0.361
+Lao People's Democratic Republic,2020,0.616,0.456
+Lebanon,2020,0.742,0.388
+Malaysia,2020,0.802,0.197
+Maldives,2020,0.737,0.338
+Marshall Islands,2020,0.727,
+Micronesia (Federated States of),2020,0.636,
+Moldova (Republic of),2020,0.765,0.185
+Mongolia,2020,0.74,0.304
+Montenegro,2020,0.832,0.131
+Myanmar,2020,0.615,0.471
+Nauru,2020,0.689,
+Nepal,2020,0.593,0.497
+North Macedonia,2020,0.766,0.136
+Oman,2020,0.823,0.261
+Pakistan,2020,0.536,0.527
+Palau,2020,0.794,
+"Palestine, State of",2020,0.715,
+Papua New Guinea,2020,0.567,0.815
+Philippines,2020,0.705,0.389
+Qatar,2020,0.863,0.168
+Samoa,2020,0.712,0.422
+Saudi Arabia,2020,0.861,0.249
+Singapore,2020,0.942,0.038
+Solomon Islands,2020,0.566,
+Sri Lanka,2020,0.777,0.37
+Syrian Arab Republic,2020,0.561,0.488
+Tajikistan,2020,0.656,0.279
+Thailand,2020,0.8,0.315
+Timor-Leste,2020,0.633,0.415
+Tonga,2020,0.742,0.424
+Türkiye,2020,0.835,0.277
+Turkmenistan,2020,0.731,
+Tuvalu,2020,0.655,
+United Arab Emirates,2020,0.93,0.03
+Uzbekistan,2020,0.716,0.246
+Vanuatu,2020,0.612,
+Viet Nam,2020,0.726,0.386
+Yemen,2020,0.43,0.787
+"Hong Kong, China (SAR)",2020,0.955,
+Israel,2020,0.906,0.085
+Japan,2020,0.917,0.085
+North Korea,2020,,
+North Korea,2020,,
+South Korea,2020,0.922,0.066
+Russian Federation,2020,0.826,0.187
+Afghanistan,2021,0.473,0.653
+Armenia,2021,0.774,0.202
+Azerbaijan,2021,0.738,0.327
+Bahrain,2021,0.884,0.192
+Bangladesh,2021,0.662,0.5
+Belarus,2021,0.801,0.099
+Bhutan,2021,0.677,0.318
+Brunei Darussalam,2021,0.824,0.283
+Cambodia,2021,0.596,0.484
+China,2021,0.785,0.185
+Fiji,2021,0.715,0.329
+Georgia,2021,0.809,0.287
+India,2021,0.633,0.45
+Indonesia,2021,0.707,0.443
+Iran,2021,0.776,0.489
+Iraq,2021,0.667,0.563
+Jordan,2021,0.736,0.458
+Kazakhstan,2021,0.801,0.181
+Kiribati,2021,0.627,
+North Korea,2021,,
+North Korea,2021,,
+Kuwait,2021,0.836,0.308
+Kyrgyzstan,2021,0.696,0.347
+Lao People's Democratic Republic,2021,0.615,0.468
+Lebanon,2021,0.725,0.385
+Malaysia,2021,0.798,0.202
+Maldives,2021,0.753,0.333
+Marshall Islands,2021,0.729,
+Micronesia (Federated States of),2021,0.634,
+Moldova (Republic of),2021,0.767,0.16
+Mongolia,2021,0.73,0.303
+Montenegro,2021,0.84,0.124
+Myanmar,2021,0.599,0.479
+Nauru,2021,0.693,
+Nepal,2021,0.591,0.496
+North Macedonia,2021,0.764,0.135
+Oman,2021,0.81,0.268
+Pakistan,2021,0.537,0.524
+Palau,2021,0.802,
+"Palestine, State of",2021,0.715,
+Papua New Guinea,2021,0.564,0.814
+Philippines,2021,0.692,0.387
+Qatar,2021,0.864,0.216
+Samoa,2021,0.708,0.436
+Saudi Arabia,2021,0.867,0.23
+Singapore,2021,0.942,0.037
+Solomon Islands,2021,0.564,
+Sri Lanka,2021,0.783,0.377
+Syrian Arab Republic,2021,0.558,0.488
+Tajikistan,2021,0.677,0.277
+Thailand,2021,0.797,0.313
+Timor-Leste,2021,0.574,0.419
+Tonga,2021,0.738,0.762
+Türkiye,2021,0.841,0.27
+Turkmenistan,2021,0.74,
+Tuvalu,2021,0.653,
+United Arab Emirates,2021,0.931,0.042
+Uzbekistan,2021,0.721,0.244
+Vanuatu,2021,0.614,
+Viet Nam,2021,0.718,0.378
+Yemen,2021,0.425,0.821
+"Hong Kong, China (SAR)",2021,0.959,
+Israel,2021,0.911,0.083
+Japan,2021,0.92,0.085
+North Korea,2021,,
+North Korea,2021,,
+South Korea,2021,0.926,0.063
+Russian Federation,2021,0.818,0.186
+Afghanistan,2022,0.462,0.665
+Armenia,2022,0.786,0.198
+Azerbaijan,2022,0.76,0.329
+Bahrain,2022,0.888,0.181
+Bangladesh,2022,0.67,0.498
+Belarus,2022,0.801,0.096
+Bhutan,2022,0.681,0.334
+Brunei Darussalam,2022,0.823,0.279
+Cambodia,2022,0.6,0.486
+China,2022,0.788,0.186
+Fiji,2022,0.729,0.332
+Georgia,2022,0.814,0.283
+India,2022,0.644,0.437
+Indonesia,2022,0.713,0.439
+Iran,2022,0.78,0.484
+Iraq,2022,0.673,0.562
+Jordan,2022,0.736,0.449
+Kazakhstan,2022,0.802,0.177
+Kiribati,2022,0.628,
+North Korea,2022,,
+North Korea,2022,,
+Kuwait,2022,0.847,0.199
+Kyrgyzstan,2022,0.701,0.345
+Lao People's Democratic Republic,2022,0.62,0.467
+Lebanon,2022,0.723,0.365
+Malaysia,2022,0.807,0.202
+Maldives,2022,0.762,0.328
+Marshall Islands,2022,0.731,
+Micronesia (Federated States of),2022,0.634,
+Moldova (Republic of),2022,0.763,0.156
+Mongolia,2022,0.741,0.297
+Montenegro,2022,0.844,0.114
+Myanmar,2022,0.608,0.479
+Nauru,2022,0.696,
+Nepal,2022,0.601,0.495
+North Macedonia,2022,0.765,0.134
+Oman,2022,0.819,0.267
+Pakistan,2022,0.54,0.522
+Palau,2022,0.797,
+"Palestine, State of",2022,0.716,
+Papua New Guinea,2022,0.568,0.604
+Philippines,2022,0.71,0.388
+Qatar,2022,0.875,0.212
+Samoa,2022,0.702,0.406
+Saudi Arabia,2022,0.875,0.229
+Singapore,2022,0.949,0.036
+Solomon Islands,2022,0.562,
+Sri Lanka,2022,0.78,0.376
+Syrian Arab Republic,2022,0.557,0.487
+Tajikistan,2022,0.679,0.269
+Thailand,2022,0.803,0.31
+Timor-Leste,2022,0.566,0.415
+Tonga,2022,0.739,0.462
+Türkiye,2022,0.855,0.259
+Turkmenistan,2022,0.744,
+Tuvalu,2022,0.653,
+United Arab Emirates,2022,0.937,0.035
+Uzbekistan,2022,0.727,0.242
+Vanuatu,2022,0.614,
+Viet Nam,2022,0.726,0.378
+Yemen,2022,0.424,0.82
+"Hong Kong, China (SAR)",2022,0.956,
+Israel,2022,0.915,0.092
+Japan,2022,0.92,0.078
+North Korea,2022,,
+North Korea,2022,,
+South Korea,2022,0.929,0.062
+Russian Federation,2022,0.821,0.178
