@@ -1,4 +1,4 @@
-# 🌍 Human Development Analysis & Visualization
+# Human Development Analysis & Visualization
 
 **A data analysis and visualization project using Power BI & Python — created as part of my AI studies at Johannes Kepler University (JKU).**
 
@@ -6,7 +6,7 @@ This project explores global development trends using the **UNDP Human Developme
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - Apply real-world data analysis and visualization techniques  
 - Explore relationships between education, economic growth, and gender inequality  
@@ -15,7 +15,7 @@ This project explores global development trends using the **UNDP Human Developme
 
 ---
 
-## 📊 Tools & Skills Demonstrated
+## Tools & Skills Demonstrated
 
 - **Python (Pandas, Plotly Express)** – Data wrangling and interactive visualizations  
 - **Power BI** – Key influencers, scatter plots, and multi-dimensional dashboards  
@@ -25,7 +25,7 @@ This project explores global development trends using the **UNDP Human Developme
 
 ---
 
-## 🔍 Key Analyses & Visualizations
+## Key Analyses & Visualizations
 
 ### 1. USA vs. South Korea – Economic Recovery After Crises  
 - Compared **Labor Force Participation Rate (LFPR)** and **Gross National Income per Capita (GNIPC)**  
@@ -41,7 +41,7 @@ This project explores global development trends using the **UNDP Human Developme
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - **Higher HDI often corresponds with lower GII**, especially in East Asia  
 - **Education is a strong predictor of long-term income growth**, though regional variations exist  
@@ -49,7 +49,7 @@ This project explores global development trends using the **UNDP Human Developme
 
 ---
 
-## 🤖 Relevance to AI & Data Roles
+## Relevance to AI & Data Roles
 
 This project showcases:
 
@@ -60,22 +60,14 @@ This project showcases:
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Add regression-based trend lines and predictive modeling (HDI/GII forecasting)  
 - Integrate Power BI dashboards with live datasets via API  
 - Use NLP to extract and analyze insights from UNDP policy documents  
 
----
 
-## 📚 Dataset Source
+## Dataset Source
 
 The dataset is provided by the [United Nations Development Programme (UNDP)](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI) and includes decades of data across various human development indicators.
 
----
-
-## 🧠 Author
-
-This project was developed by **[Your Name]**, AI student at Johannes Kepler University (JKU), as part of a university-level data analysis module.
-
----
